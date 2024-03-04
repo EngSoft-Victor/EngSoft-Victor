@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, sou Victor! 👋
 
-<!--
-**EngSoft-Victor/EngSoft-Victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software e apaixonado por Python 🐍. Atualmente, trabalho como analista e implantador de sistemas ERP.
 
-Here are some ideas to get you started:
+## 💼 Experiência Profissional
+- Analista e Implantador de Sistemas ERP
+- Desenvolvimento de relatórios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente Estou Aprendendo
+- Desenvolvimento de Software
+- Python e suas aplicações em diversas áreas
+- Métodos ágeis de desenvolvimento
+- Documentação
