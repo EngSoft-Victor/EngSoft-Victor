@@ -1,6 +1,6 @@
 # Olá, sou Victor! 👋
 
-Sou estudante de Engenharia de Software e apaixonado por Python 🐍. <br>
+Sou estudante de Engenharia de Software e apaixonado por Python. <br>
 Atualmente, trabalho como analista e implantador de sistemas ERP.
 
 ## 💼 Experiência Profissional
